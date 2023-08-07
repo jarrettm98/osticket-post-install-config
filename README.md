@@ -11,7 +11,15 @@ https://github.com/jarrettm98/osticket-prereqs
 
 
 <h2> Operating Systems Used </h2>
-- Windows 10
+
+  - Windows 10
+
+<h2>Prerequisites</h2>
+
+  - Create Virtual Machine
+  - Remote Desktop Connection
+  - Install osTicket
+  
 <h2>Post-Install Config Steps</h2>
 
 Once logged in with the user and password created, the admin panel should be the default mode. Next, click on the agents tab. This should go to the area where agents along with their teams, roles, and departments will be managed. First, the agents need roles. Go to the Roles tab and "Add New Role" and name it "Supreme Admin." Next, click on the "Permissions" tab. There will be three tabs of different types of permissions. For this role, check every box in all three categories.
